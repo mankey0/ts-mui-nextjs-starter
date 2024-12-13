@@ -96,7 +96,7 @@ sections:
         color: primary
       - type: Button
         label: تواصل معنا  واتساب
-        url: 'https://wa.me/201030417663'
+        url: ''
         size: medium
         variant: text
         color: primary
