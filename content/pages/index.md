@@ -96,7 +96,7 @@ sections:
         color: primary
       - type: Button
         label: معلومات عنا
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://mokawl.netlify.app/about'
         size: large
         variant: outlined
         color: primary
