@@ -15,7 +15,7 @@ sections:
       . [Learn more.](https://mokawl.netlify.app/about)
     actions:
       - type: Button
-        label: Start Building
+        label: تواصل معنا
         url: ''
         size: large
         variant: contained
