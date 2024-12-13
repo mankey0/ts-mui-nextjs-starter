@@ -32,7 +32,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: خدماتنا
-    subtitle: Section subtitle here
+    subtitle: ما هي خدماتنا
     items:
       - type: Card
         title: First Card Title
