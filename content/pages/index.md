@@ -89,10 +89,13 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: تواصل معنا
-        url: '01030417663'
-        size: large
-        variant: contained
+        label: Learn more
+        url: >-
+          <a href="javascript:void(0)"
+          onclick="navigator.clipboard.writeText('+201030417663'); alert('تم نسخ
+          الرقم: +201030417663')">نسخ الرقم</a>
+        size: medium
+        variant: text
         color: primary
       - type: Button
         label: تواصل معنا  واتساب
