@@ -20,6 +20,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: Learn more
+        url: /من نحن
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/hero.svg
