@@ -95,7 +95,7 @@ sections:
         variant: text
         color: primary
       - type: Button
-        label: تواصل معنا  واتساب
+        label: ''
         url: ''
         size: medium
         variant: text
