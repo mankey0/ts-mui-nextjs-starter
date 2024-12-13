@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: تواصل معنا
-        url: /about
+        url: 'https://mokawl.netlify.app/about'
         size: large
         variant: contained
         color: primary
