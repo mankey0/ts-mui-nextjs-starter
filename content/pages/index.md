@@ -59,7 +59,7 @@ sections:
         actions:
           - type: Button
             label: ''
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: ''
       - type: Card
         title: Third Card Title
         image:
