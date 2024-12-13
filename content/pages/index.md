@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: مقاول
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: ''
     text: >
       شركة **مقاول** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
       الخرسانية والبناء. منذ تأسيسها، حرصت الشركة على الالتزام بأعلى معايير
