@@ -31,8 +31,8 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: خدماتنا
+    subtitle: ما هي خدماتنا
     items:
       - type: Card
         title: First Card Title
@@ -81,7 +81,7 @@ sections:
             url: ''
   - type: HeroSection
     title: تواصل معنا
-    subtitle: سعداء بتقديم خدماتنا من اجلك
+    subtitle: ''
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
@@ -89,16 +89,16 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: تواصل معنا
-        url: '01030417663'
+        label: واتساب
+        url: 'https://wa.me/201030417663'
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: تواصل معنا  واتساب
-        url: 'https://wa.me/201030417663'
-        size: medium
-        variant: text
+        label: معلومات عنا
+        url: 'https://mokawl.netlify.app/about'
+        size: large
+        variant: outlined
         color: primary
     image:
       type: Image
