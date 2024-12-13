@@ -6,7 +6,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "الصفحه الرئيسه",
                 "url": "/",
                 "underline": "hover"
             },
