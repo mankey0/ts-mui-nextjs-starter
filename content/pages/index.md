@@ -94,12 +94,6 @@ sections:
         size: large
         variant: text
         color: primary
-      - type: Button
-        label: ''
-        url: ''
-        size: medium
-        variant: text
-        color: primary
     image:
       type: Image
       url: /images/hero.svg
