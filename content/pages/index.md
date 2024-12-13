@@ -21,7 +21,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: ''
         url: ''
         size: large
         variant: outlined
