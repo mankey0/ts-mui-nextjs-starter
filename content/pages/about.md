@@ -1,5 +1,5 @@
 ---
-title: About
+title: من نحن
 type: Page
 sections:
   - type: HeroSection
