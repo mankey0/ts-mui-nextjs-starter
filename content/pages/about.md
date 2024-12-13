@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: من نحن
-    subtitle: مقاول
+    subtitle: شركه مقاول
     text: >
       **شركة مقاول**
 
