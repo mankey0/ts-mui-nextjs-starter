@@ -22,7 +22,7 @@ sections:
         color: primary
       - type: Button
         label: Learn more
-        url: /من نحن
+        url: ''
         size: medium
         variant: text
         color: primary
