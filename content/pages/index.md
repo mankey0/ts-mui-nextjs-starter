@@ -90,7 +90,7 @@ sections:
     actions:
       - type: Button
         label: تواصل معنا
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: '01030417663'
         size: large
         variant: contained
         color: primary
