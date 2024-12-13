@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: تواصل معنا
-        url: ''
+        url: /about
         size: large
         variant: contained
         color: primary
