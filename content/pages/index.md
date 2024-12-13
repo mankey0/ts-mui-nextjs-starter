@@ -81,7 +81,7 @@ sections:
             url: ''
   - type: HeroSection
     title: تواصل معنا
-    subtitle: The section subtitle
+    subtitle: سعداء بتقديم خدماتنا من اجلك
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
