@@ -91,7 +91,7 @@ sections:
       - type: Button
         label: واتساب
         url: '/https://wa.me/201030417663'
-        size: medium
+        size: large
         variant: text
         color: primary
       - type: Button
