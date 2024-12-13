@@ -6,9 +6,13 @@ sections:
     title: مقاول
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      شركة **مقاول** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
+      الخرسانية والبناء. منذ تأسيسها، حرصت الشركة على الالتزام بأعلى معايير
+      الجودة والدقة في تنفيذ المشاريع، مما أكسبها ثقة العملاء والشركاء في جميع
+      أنحاء المنطقة.
+
+
+      . [Learn more.](https://mokawl.netlify.app/about)
     actions:
       - type: Button
         label: Start Building
