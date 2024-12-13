@@ -89,7 +89,7 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Learn more
+        label: Learn moreStart Building
         url: 'https://wa.me/201030417663'
         size: medium
         variant: text
