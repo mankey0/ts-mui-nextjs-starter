@@ -1,5 +1,5 @@
 ---
-title: Home
+title: مقاول
 type: Page
 sections:
   - type: HeroSection
