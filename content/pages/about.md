@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: من نحن
-    subtitle: This is the subtitle
+    subtitle: مقاول
     text: >
       This is **Markdown** *text*.
 
