@@ -89,10 +89,10 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: واتساب
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
+        label: Learn more
+        url: 'https://wa.me/201030417663'
+        size: medium
+        variant: text
         color: primary
       - type: Button
         label: Read the Docs
