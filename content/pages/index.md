@@ -89,11 +89,8 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Learn more
-        url: >-
-          <a href="javascript:void(0)"
-          onclick="navigator.clipboard.writeText('+201030417663'); alert('تم نسخ
-          الرقم: +201030417663')">نسخ الرقم</a>
+        label: واتساب
+        url: '/https://wa.me/201030417663'
         size: medium
         variant: text
         color: primary
