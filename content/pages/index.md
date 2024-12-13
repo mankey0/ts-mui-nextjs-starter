@@ -90,7 +90,7 @@ sections:
     actions:
       - type: Button
         label: واتساب
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://wa.me/201030417663'
         size: large
         variant: contained
         color: primary
