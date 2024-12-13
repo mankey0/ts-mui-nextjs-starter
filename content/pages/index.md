@@ -93,7 +93,7 @@ sections:
         url: '/https://wa.me/201030417663'
         size: large
         variant: text
-        color: primary
+        color: inherit
       - type: Button
         label: ''
         url: ''
