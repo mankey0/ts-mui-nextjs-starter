@@ -95,7 +95,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: معلومات عنا
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
