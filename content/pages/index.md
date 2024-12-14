@@ -30,7 +30,7 @@ sections:
         color: primary
       - type: Button
         label: من نحن
-        url: 'https://mokawl.netlify.app/about'
+        url: ''
         size: large
         variant: contained
         color: secondary
