@@ -12,6 +12,13 @@
             },
             {
                 "type": "Link",
+                "label": "من نحن",
+                "url": "/about",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "",
                 "url": "",
                 "underline": "hover"
