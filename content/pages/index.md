@@ -121,7 +121,7 @@ sections:
         title: ترميمات عامة بخبرة وكفاءة.
         image:
           type: Image
-          url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
+          url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (1).jpeg
           altText: Third item image
         text: >+
           مع مرور الوقت، قد تتعرض المباني للتآكل أو التلف نتيجة العوامل البيئية
