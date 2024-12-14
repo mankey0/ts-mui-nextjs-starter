@@ -1,5 +1,5 @@
 ---
-title: AL-MUSTASHAR
+title: مقاول
 type: Page
 sections:
   - type: HeroSection
