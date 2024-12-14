@@ -33,7 +33,7 @@ sections:
         url: 'https://mokawl.netlify.app/about'
         size: large
         variant: contained
-        color: primary
+        color: secondary
     image:
       type: Image
       url: /images/freepik__background__60831.png
