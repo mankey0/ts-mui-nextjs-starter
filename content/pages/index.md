@@ -157,8 +157,6 @@ sections:
       والترميمات والتشطيبات
 
 
-      ###
-
     actions:
       - type: Button
         label: واتساب
