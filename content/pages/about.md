@@ -3,7 +3,7 @@ type: Page
 title: about
 sections:
   - type: HeroSection
-    title: This is a Big Hero Headline
+    title: ''
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
