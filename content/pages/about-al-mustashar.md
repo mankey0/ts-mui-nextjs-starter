@@ -19,8 +19,7 @@ sections:
         color: primary
       - type: Button
         label: تواصل معنا
-        url: >-
-          https://api.whatsapp.com/send/?phone=966536585172&text&type=phone_number&app_absent=0
+        url: 'https://api.whatsapp.com/send/?phone=966536585172'
         size: large
         variant: outlined
         color: primary
