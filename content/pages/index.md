@@ -65,7 +65,7 @@ sections:
             label: ''
             url: ''
       - type: Card
-        title: Third Card Title
+        title: ترميمات عامة بخبرة وكفاءة.
         image:
           type: Image
           url: /images/ts.svg
