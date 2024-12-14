@@ -13,7 +13,7 @@
             {
                 "type": "Link",
                 "label": "من  نحن",
-                "url": "/",
+                "url": "/about",
                 "underline": "hover"
             },
             {
