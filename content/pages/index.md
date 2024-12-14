@@ -74,11 +74,31 @@ sections:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          التشطيبات هي الخطوة النهائية التي تضيف الجمال والرونق إلى أي مشروع.
+          نحن نقدم حلولًا شاملة للتشطيبات الداخلية والخارجية باستخدام أفضل
+          المواد والتصاميم المبتكرة.
+
+          سواء كنت تبحث عن مظهر كلاسيكي أو عصري، فإننا نجمع بين الإبداع والجودة
+          لنحول رؤيتك إلى واقع.
+
+
+          **تشمل خدماتنا في التشطيبات:**
+
+
+          *   طلاء الجدران بأحدث التقنيات.
+
+
+          *   تركيب الأرضيات بأنواعها (سيراميك، رخام، خشب).
+
+
+          *   تنفيذ الأسقف المعلقة والجبس بورد.
+
+
+          *   تصميم واجهات المباني بأشكال مميزة.
+
+
+
         actions:
           - type: Button
             label: ''
