@@ -160,7 +160,8 @@ sections:
         color: primary
       - type: Button
         label: GMAIL
-        url: 'mailto:hazemfwzy123456796@gmail.com'
+        url: >-
+          mailto:hazemfwzy123456796@gmail.com?subject=Hello&body=This%20is%20a%20test%20message.
         size: large
         variant: contained
         color: primary
