@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/",
+    "favicon": "/images/favicon.svg",
     "header": {
         "title": "AL-MUSTASHAR",
         "navLinks": [
@@ -13,7 +13,7 @@
             {
                 "type": "Link",
                 "label": "من  نحن",
-                "url": "/about",
+                "url": "/",
                 "underline": "hover"
             },
             {

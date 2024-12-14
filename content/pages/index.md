@@ -1,5 +1,5 @@
 ---
-title: ''
+title: AL-MUSTASHAR
 type: Page
 sections:
   - type: HeroSection
@@ -30,13 +30,13 @@ sections:
         color: primary
       - type: Button
         label: من نحن
-        url: 'https://mokawl.netlify.app/about'
+        url: /about
         size: large
         variant: contained
         color: secondary
     image:
       type: Image
-      url: /images/freepik__background__60831.png
+      url: /images/favicon.svg
       altText: Hero section image
   - type: CardsSection
     title: خدماتنا
