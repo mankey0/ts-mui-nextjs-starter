@@ -152,11 +152,15 @@ sections:
   - type: HeroSection
     title: تواصل معنا
     subtitle: ''
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      نسعد بخدمتكم والتواصل معكم لتلبية جميع احتياجاتكم في مجال أعمال الخرسانة
+      والترميمات والتشطيبات.
+
+
+      ###
+
+
+
     actions:
       - type: Button
         label: واتساب
