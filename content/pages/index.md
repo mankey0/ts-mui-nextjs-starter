@@ -167,7 +167,7 @@ sections:
         color: secondary
       - type: Button
         label: معلومات عنا
-        url: 'https://mokawl.netlify.app/about'
+        url: /about
         size: large
         variant: outlined
         color: primary
