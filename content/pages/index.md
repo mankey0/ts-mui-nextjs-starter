@@ -1,12 +1,12 @@
 ---
-title: مقاول
+title: ''
 type: Page
 sections:
   - type: HeroSection
-    title: مقاول
-    subtitle: شركه مقاول
-    text: >
-      ****
+    title: AL-MUSTASHAR
+    subtitle: المستشار
+    text: >+
+      ***
 
 
       نحن شركة متخصصة في **أعمال الخرسانة والصبّ** بجميع أنواعها، بالإضافة إلى
@@ -21,28 +21,22 @@ sections:
       نطمح إلى أن نكون الخيار الأول في مجال أعمال البناء والتشطيبات بفضل كفاءتنا
       ومهنيتنا العالية.
 
-
-
-
-
-
-      . [Learn more.](https://mokawl.netlify.app/about)
     actions:
       - type: Button
         label: تواصل معنا
-        url: 'https://mokawl.netlify.app/about'
+        url: 'https://wa.me/966536585172'
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: ''
-        url: ''
-        size: medium
-        variant: text
-        color: primary
+        label: من نحن
+        url: 'https://mokawl.netlify.app/about'
+        size: large
+        variant: contained
+        color: secondary
     image:
       type: Image
-      url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
+      url: /images/freepik__background__60831.png
       altText: Hero section image
   - type: CardsSection
     title: خدماتنا
@@ -160,10 +154,17 @@ sections:
     actions:
       - type: Button
         label: واتساب
-        url: 'https://wa.me/201030417663'
+        url: 'https://wa.me/966536585172'
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: GMAIL
+        url: >-
+          https://mail.google.com/mail/?view=cm&fs=1&to=hazemfwzy123456796@gmail.com
+        size: large
+        variant: contained
+        color: secondary
       - type: Button
         label: معلومات عنا
         url: 'https://mokawl.netlify.app/about'
@@ -172,6 +173,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/favicon.svg
+      url: /images/freepik__background__60831.png
       altText: Hero section image
 ---
