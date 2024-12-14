@@ -160,7 +160,7 @@ sections:
         color: primary
       - type: Button
         label: GMAIL
-        url: hazemfwzy123456796@gmail.com
+        url: 'mailto:hazemfwzy123456796@gmail.com'
         size: large
         variant: contained
         color: primary
