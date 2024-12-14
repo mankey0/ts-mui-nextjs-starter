@@ -40,11 +40,16 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          أعمال الخرسانة والصب تُعد من أهم مراحل البناء، فهي الأساس الذي يعتمد
+          عليه نجاح المشروع واستدامته. تشمل هذه الأعمال تحضير الموقع، صب
+          الخرسانة باستخدام تقنيات حديثة، والتأكد من مطابقتها للمواصفات
+          القياسية.
+
+          الخرسانة المستخدمة يجب أن تكون ذات جودة عالية لتتحمل العوامل البيئية
+          والضغوط المختلفة. فريقنا يضمن تنفيذ هذه العمليات بدقة باستخدام أحدث
+          المعدات وخبراء محترفين
+
         actions:
           - type: Button
             label: ''
