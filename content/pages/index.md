@@ -159,6 +159,12 @@ sections:
         variant: contained
         color: primary
       - type: Button
+        label: GMAIL
+        url: hazemfwzy123456796@gmail.com
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
         label: معلومات عنا
         url: 'https://mokawl.netlify.app/about'
         size: large
