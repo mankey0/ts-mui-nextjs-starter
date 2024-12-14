@@ -60,7 +60,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: 'https://docs.netlify.com/create/getting-started/'
+        url: ''
         size: large
         variant: contained
         color: primary
