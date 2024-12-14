@@ -66,7 +66,7 @@ sections:
         color: primary
       - type: Button
         label: الصفحه الرئيسيه
-        url: الصفحه الرئيسيه
+        url: 'https://almustashar.netlify.app/'
         size: large
         variant: outlined
         color: primary
