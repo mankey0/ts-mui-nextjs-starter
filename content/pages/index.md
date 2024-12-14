@@ -42,7 +42,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
       altText: Hero section image
   - type: CardsSection
     title: خدماتنا
@@ -52,7 +52,7 @@ sections:
         title: أعمال الخرسانة والصب بجودة عالية
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-12-14 at 4.54.49 PM.jpeg
           altText: First item image
         text: >+
           أعمال الخرسانة والصب تُعد من أهم مراحل البناء، فهي الأساس الذي يعتمد
@@ -86,7 +86,7 @@ sections:
         title: تشطيبات داخلية وخارجية بتصاميم مميزة
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM.jpeg
           altText: Second item image
         text: >+
           التشطيبات هي الخطوة النهائية التي تضيف الجمال والرونق إلى أي مشروع.
@@ -121,7 +121,7 @@ sections:
         title: ترميمات عامة بخبرة وكفاءة.
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (1).jpeg
           altText: Third item image
         text: >+
           مع مرور الوقت، قد تتعرض المباني للتآكل أو التلف نتيجة العوامل البيئية
@@ -172,6 +172,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/favicon.svg
       altText: Hero section image
 ---
