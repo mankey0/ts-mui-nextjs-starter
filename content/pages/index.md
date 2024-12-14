@@ -164,7 +164,7 @@ sections:
           https://mail.google.com/mail/?view=cm&fs=1&to=hazemfwzy123456796@gmail.com
         size: large
         variant: contained
-        color: inherit
+        color: secondary
       - type: Button
         label: معلومات عنا
         url: 'https://mokawl.netlify.app/about'
