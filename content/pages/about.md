@@ -91,7 +91,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM.jpeg
+          url: /images/WhatsApp Image 2024-12-14 at 5.49.13 PM.jpeg
           altText: ''
         actions: []
       - type: Card
