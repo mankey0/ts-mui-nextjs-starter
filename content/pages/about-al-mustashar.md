@@ -13,7 +13,7 @@ sections:
     actions:
       - type: Button
         label: الصفحه الرئيسيه
-        url: 'https://docs.netlify.com/create/getting-started/'
+        url: 'https://almustashar.netlify.app/'
         size: large
         variant: contained
         color: primary
