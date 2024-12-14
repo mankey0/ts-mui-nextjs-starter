@@ -91,7 +91,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/WhatsApp Image 2024-12-14 at 7.53.59 PM.jpeg
           altText: ''
         actions: []
       - type: Card
