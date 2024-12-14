@@ -1,5 +1,5 @@
 ---
-title: ''
+title: AL-MUSTASHAR
 type: Page
 sections:
   - type: HeroSection
