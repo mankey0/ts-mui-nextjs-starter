@@ -6,7 +6,7 @@ sections:
     title: من نحن
     subtitle: شركه مقاول
     text: >
-      ****
+      ***
 
 
       شركة **مقاول** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
@@ -63,7 +63,11 @@ sections:
 
       **للتواصل معنا:
 
-      واتساب 
+      واتساب
 
       اتصل بنا**
+    image:
+      type: Image
+      url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
+      altText: Image alt text
 ---
