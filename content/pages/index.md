@@ -29,7 +29,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: ''
+        label: من نحن
         url: ''
         size: medium
         variant: text
