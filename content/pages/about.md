@@ -60,7 +60,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: ''
+        url: 'https://api.whatsapp.com/send/?phone=966536585172'
         size: large
         variant: contained
         color: primary
