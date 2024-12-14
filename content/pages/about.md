@@ -74,4 +74,38 @@ sections:
       type: Image
       url: /images/freepik__background__60831.png
       altText: Hero section image
+  - type: CardsSection
+    title: بعض اعمالنا
+    subtitle: ''
+    items:
+      - type: Card
+        title: ''
+        text: ''
+        image:
+          type: Image
+          url: /images/WhatsApp Image 2024-12-14 at 5.49.13 PM.jpeg
+          altText: First item image
+        actions: []
+      - type: Card
+        title: ''
+        text: ''
+        image:
+          type: Image
+          url: /images/WhatsApp Image 2024-12-14 at 7.48.25 PM.jpeg
+          altText: ''
+        actions: []
+      - type: Card
+        title: ''
+        text: ''
+        image:
+          type: Image
+          url: /images/WhatsApp Image 2024-12-14 at 7.48.23 PM.jpeg
+          altText: Third item image
+        actions:
+          - type: Button
+            label: ''
+            url: ''
+            size: medium
+            variant: text
+            color: primary
 ---
