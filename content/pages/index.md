@@ -6,10 +6,24 @@ sections:
     title: مقاول
     subtitle: شركه مقاول
     text: >
-      شركة **مقاول** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
-      الخرسانية والبناء. منذ تأسيسها، حرصت الشركة على الالتزام بأعلى معايير
-      الجودة والدقة في تنفيذ المشاريع، مما أكسبها ثقة العملاء والشركاء في جميع
-      أنحاء المنطقة.
+      ****
+
+
+      نحن شركة متخصصة في **أعمال الخرسانة والصبّ** بجميع أنواعها، بالإضافة إلى
+      تقديم خدمات **الترميمات العامة والتشطيبات الداخلية والخارجية**. نسعى
+      دائمًا إلى تحقيق أعلى معايير الجودة والدقة في جميع مشاريعنا، مع الالتزام
+      بالمواعيد وتسليم العمل وفقًا لأفضل المواصفات الفنية والهندسية.
+
+
+      ### **رؤيتنا**
+
+
+      نطمح إلى أن نكون الخيار الأول في مجال أعمال البناء والتشطيبات بفضل كفاءتنا
+      ومهنيتنا العالية.
+
+
+
+
 
 
       . [Learn more.](https://mokawl.netlify.app/about)
@@ -35,46 +49,102 @@ sections:
     subtitle: ما هي خدماتنا
     items:
       - type: Card
-        title: First Card Title
+        title: أعمال الخرسانة والصب بجودة عالية
         image:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          أعمال الخرسانة والصب تُعد من أهم مراحل البناء، فهي الأساس الذي يعتمد
+          عليه نجاح المشروع واستدامته. تشمل هذه الأعمال تحضير الموقع، صب
+          الخرسانة باستخدام تقنيات حديثة، والتأكد من مطابقتها للمواصفات
+          القياسية.
+
+          الخرسانة المستخدمة يجب أن تكون ذات جودة عالية لتتحمل العوامل البيئية
+          والضغوط المختلفة. فريقنا يضمن تنفيذ هذه العمليات بدقة باستخدام أحدث
+          المعدات وخبراء محترفين
+
+
+          **الخدمات التي نقدمها في هذا المجال تشمل:**
+
+
+          *   صب الأساسات والقواعد.
+
+
+          *   صب الأعمدة والأسقف.
+
+
+          *   تنفيذ الخرسانة المسلحة والمسبقة الصب.
+
+
+
         actions:
           - type: Button
             label: ''
             url: ''
       - type: Card
-        title: Second Card Title
+        title: تشطيبات داخلية وخارجية بتصاميم مميزة
         image:
           type: Image
           url: /images/mui-5.svg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          التشطيبات هي الخطوة النهائية التي تضيف الجمال والرونق إلى أي مشروع.
+          نحن نقدم حلولًا شاملة للتشطيبات الداخلية والخارجية باستخدام أفضل
+          المواد والتصاميم المبتكرة.
+
+          سواء كنت تبحث عن مظهر كلاسيكي أو عصري، فإننا نجمع بين الإبداع والجودة
+          لنحول رؤيتك إلى واقع.
+
+
+          **تشمل خدماتنا في التشطيبات:**
+
+
+          *   طلاء الجدران بأحدث التقنيات.
+
+
+          *   تركيب الأرضيات بأنواعها (سيراميك، رخام، خشب).
+
+
+          *   تنفيذ الأسقف المعلقة والجبس بورد.
+
+
+          *   تصميم واجهات المباني بأشكال مميزة.
+
+
+
         actions:
           - type: Button
             label: ''
             url: ''
       - type: Card
-        title: Third Card Title
+        title: ترميمات عامة بخبرة وكفاءة.
         image:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          مع مرور الوقت، قد تتعرض المباني للتآكل أو التلف نتيجة العوامل البيئية
+          أو الاستخدام المستمر. هنا يأتي دور الترميمات العامة التي تهدف إلى
+          استعادة قوة وجمال المبنى.
+
+          سواء كنت تحتاج إلى معالجة الشروخ، إصلاح الأسطح، أو تحسين البنية
+          الإنشائية، فإننا نستخدم مواد وتقنيات متطورة لضمان نتائج تدوم طويلًا.
+
+
+          **أهم خدماتنا تشمل:**
+
+
+          *   معالجة شروخ الجدران والأسقف.
+
+
+          *   إصلاحات الخرسانة والبنية التحتية.
+
+
+          *   عزل الأسطح وحماية المباني من الرطوبة.
+
+
+
         actions:
           - type: Button
             label: ''
@@ -82,11 +152,11 @@ sections:
   - type: HeroSection
     title: تواصل معنا
     subtitle: ''
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      نسعد بخدمتكم والتواصل معكم لتلبية جميع احتياجاتكم في مجال أعمال الخرسانة
+      والترميمات والتشطيبات
+
+
     actions:
       - type: Button
         label: واتساب
