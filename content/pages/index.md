@@ -5,8 +5,8 @@ sections:
   - type: HeroSection
     title: AL-MUSTASHAR
     subtitle: المستشار
-    text: >
-      ****
+    text: >+
+      ***
 
 
       نحن شركة متخصصة في **أعمال الخرسانة والصبّ** بجميع أنواعها، بالإضافة إلى
@@ -21,12 +21,6 @@ sections:
       نطمح إلى أن نكون الخيار الأول في مجال أعمال البناء والتشطيبات بفضل كفاءتنا
       ومهنيتنا العالية.
 
-
-
-
-
-
-      . [Learn more.](https://mokawl.netlify.app/about)
     actions:
       - type: Button
         label: تواصل معنا
