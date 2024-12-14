@@ -86,7 +86,7 @@ sections:
         title: تشطيبات داخلية وخارجية بتصاميم مميزة
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
           altText: Second item image
         text: >+
           التشطيبات هي الخطوة النهائية التي تضيف الجمال والرونق إلى أي مشروع.
