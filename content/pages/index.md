@@ -154,7 +154,7 @@ sections:
     actions:
       - type: Button
         label: واتساب
-        url: ''
+        url: 'https://wa.me/966536585172'
         size: large
         variant: contained
         color: primary
