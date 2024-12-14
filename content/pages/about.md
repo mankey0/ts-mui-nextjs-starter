@@ -87,7 +87,7 @@ sections:
           altText: First item image
         actions: []
       - type: Card
-        title: Second Item Title
+        title: ''
         text: ''
         image:
           type: Image
