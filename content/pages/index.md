@@ -30,7 +30,7 @@ sections:
         color: primary
       - type: Button
         label: من نحن
-        url: ''
+        url: /about
         size: large
         variant: contained
         color: secondary
