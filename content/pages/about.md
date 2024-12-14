@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: من نحن
-    subtitle: شركه مقاول
+    subtitle: AL-MUSTASHAR
     text: >
       ***
 
@@ -61,13 +61,16 @@ sections:
       جهودنا المشتركة نسعى لتحقيق رؤية عملائنا وتحويل أفكارهم إلى واقع ملموس.
 
 
-      **للتواصل معنا:
-
-      واتساب
-
-      اتصل بنا**
+      ****
     image:
       type: Image
       url: /images/freepik__background__60831.png
       altText: Image alt text
+    actions:
+      - type: Button
+        label: تواصل معنا
+        url: 'https://wa.me/966536585172'
+        size: large
+        variant: contained
+        color: primary
 ---
