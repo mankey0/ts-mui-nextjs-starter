@@ -35,7 +35,7 @@ sections:
     subtitle: ما هي خدماتنا
     items:
       - type: Card
-        title: First Card Title
+        title: أعمال الخرسانة والصب بجودة عالية
         image:
           type: Image
           url: /images/nextjs.svg
