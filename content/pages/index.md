@@ -30,7 +30,7 @@ sections:
     actions:
       - type: Button
         label: تواصل معنا
-        url: 'https://mokawl.netlify.app/about'
+        url: 'https://wa.me/966536585172https://mokawl.netlify.app/about'
         size: large
         variant: contained
         color: primary
