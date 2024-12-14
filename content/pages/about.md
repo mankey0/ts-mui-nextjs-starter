@@ -75,7 +75,7 @@ sections:
       url: /images/freepik__background__60831.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
+    title: بعض اعمالنا
     subtitle: The section subtitle
     items:
       - type: Card
