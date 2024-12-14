@@ -65,7 +65,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: الصفحه الرئيسيه
         url: الصفحه الرئيسيه
         size: large
         variant: outlined
