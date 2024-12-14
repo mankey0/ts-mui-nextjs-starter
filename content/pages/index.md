@@ -161,7 +161,7 @@ sections:
       - type: Button
         label: GMAIL
         url: >-
-          mailto:hazemfwzy123456796@gmail.com?subject=Hello&body=This%20is%20a%20test%20message.
+          https://mail.google.com/mail/?view=cm&fs=1&to=hazemfwzy123456796@gmail.com
         size: large
         variant: contained
         color: primary
