@@ -4,7 +4,7 @@ title: Example landing page
 sections:
   - type: HeroSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: AL-MUSTASHAR
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
