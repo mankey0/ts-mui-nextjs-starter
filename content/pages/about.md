@@ -68,6 +68,6 @@ sections:
       اتصل بنا**
     image:
       type: Image
-      url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
+      url: /images/freepik__background__60831.png
       altText: Image alt text
 ---
