@@ -12,12 +12,6 @@
             },
             {
                 "type": "Link",
-                "label": "من  نحن",
-                "url": "/",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
                 "label": "",
                 "url": "",
                 "underline": "hover"

@@ -1,15 +1,12 @@
 ---
-title: من نحن
 type: Page
+title: about
 sections:
   - type: HeroSection
-    title: من نحن
-    subtitle: AL-MUSTASHAR
+    title: ''
+    subtitle: The section subtitle
     text: >
-      ***
-
-
-      شركة **مقاول** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
+      شركة **المستشار** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
       الخرسانية والبناء. منذ تأسيسها، حرصت الشركة على الالتزام بأعلى معايير
       الجودة والدقة في تنفيذ المشاريع، مما أكسبها ثقة العملاء والشركاء في جميع
       أنحاء المنطقة.
@@ -57,20 +54,24 @@ sections:
       *   توفير حلول مخصصة لمشاريع البناء الكبرى والصغرى.
 
 
-      نحن في **شركة مقاول** نؤمن بأن النجاح يبدأ بفريق عمل متفانٍ وشغوف، وبفضل
-      جهودنا المشتركة نسعى لتحقيق رؤية عملائنا وتحويل أفكارهم إلى واقع ملموس.
-
-
-      ****
-    image:
-      type: Image
-      url: /images/freepik__background__60831.png
-      altText: Image alt text
+      نحن في **شركة المستشار** نؤمن بأن النجاح يبدأ بفريق عمل متفانٍ وشغوف،
+      وبفضل جهودنا المشتركة نسعى لتحقيق رؤية عملائنا وتحويل أفكارهم إلى واقع
+      ملموس.
     actions:
       - type: Button
-        label: تواصل معنا
-        url: 'https://wa.me/966536585172'
+        label: 'واتساب '
+        url: 'https://api.whatsapp.com/send/?phone=966536585172'
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: الصفحه الرئيسيه
+        url: 'https://almustashar.netlify.app/'
+        size: large
+        variant: outlined
+        color: primary
+    image:
+      type: Image
+      url: /images/freepik__background__60831.png
+      altText: Hero section image
 ---
