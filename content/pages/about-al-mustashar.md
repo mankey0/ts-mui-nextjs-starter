@@ -12,7 +12,7 @@ sections:
       itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
-        label: Start Bulding
+        label: الصفحه الرئيسيه
         url: 'https://docs.netlify.com/create/getting-started/'
         size: large
         variant: contained
