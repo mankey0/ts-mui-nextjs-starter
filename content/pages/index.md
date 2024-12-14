@@ -50,7 +50,7 @@ sections:
             label: ''
             url: ''
       - type: Card
-        title: Second Card Title
+        title: تشطيبات داخلية وخارجية بتصاميم مميزة
         image:
           type: Image
           url: /images/mui-5.svg
