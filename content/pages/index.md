@@ -31,6 +31,12 @@ sections:
       - type: Button
         label: من نحن
         url: 'https://mokawl.netlify.app/about'
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: من نحن
+        url: 'https://mokawl.netlify.app/about'
         size: medium
         variant: text
         color: primary
