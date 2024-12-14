@@ -36,7 +36,7 @@ sections:
         color: secondary
     image:
       type: Image
-      url: /images/favicon.svg
+      url: /images/freepik__background__60831.png
       altText: Hero section image
   - type: CardsSection
     title: خدماتنا
