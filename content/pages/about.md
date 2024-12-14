@@ -66,4 +66,11 @@ sections:
       type: Image
       url: /images/freepik__background__60831.png
       altText: Image alt text
+    actions:
+      - type: Button
+        label: تواصل معنا
+        url: 'https://wa.me/966536585172'
+        size: large
+        variant: contained
+        color: primary
 ---
