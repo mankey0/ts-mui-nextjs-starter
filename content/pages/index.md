@@ -42,7 +42,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/WhatsApp Image 2024-12-14 at 4.54.27 PM (2).jpeg
       altText: Hero section image
   - type: CardsSection
     title: خدماتنا
