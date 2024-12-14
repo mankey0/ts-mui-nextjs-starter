@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: AL-MUSTASHAR
-    subtitle: شركه مقاول
+    subtitle: المستشار
     text: >
       ****
 
