@@ -75,11 +75,28 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          مع مرور الوقت، قد تتعرض المباني للتآكل أو التلف نتيجة العوامل البيئية
+          أو الاستخدام المستمر. هنا يأتي دور الترميمات العامة التي تهدف إلى
+          استعادة قوة وجمال المبنى.
+
+          سواء كنت تحتاج إلى معالجة الشروخ، إصلاح الأسطح، أو تحسين البنية
+          الإنشائية، فإننا نستخدم مواد وتقنيات متطورة لضمان نتائج تدوم طويلًا.
+
+
+          **أهم خدماتنا تشمل:**
+
+
+          *   معالجة شروخ الجدران والأسقف.
+
+
+          *   إصلاحات الخرسانة والبنية التحتية.
+
+
+          *   عزل الأسطح وحماية المباني من الرطوبة.
+
+
+
         actions:
           - type: Button
             label: ''
