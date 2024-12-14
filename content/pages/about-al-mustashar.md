@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Example landing page
+title: about
 sections:
   - type: HeroSection
     title: ''
