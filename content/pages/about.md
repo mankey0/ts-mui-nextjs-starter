@@ -83,7 +83,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-12-14 at 5.49.13 PM.jpeg
           altText: First item image
         actions: []
       - type: Card
