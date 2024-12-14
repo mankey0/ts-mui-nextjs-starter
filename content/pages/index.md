@@ -52,7 +52,7 @@ sections:
         title: أعمال الخرسانة والصب بجودة عالية
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/WhatsApp Image 2024-12-14 at 4.54.49 PM.jpeg
           altText: First item image
         text: >+
           أعمال الخرسانة والصب تُعد من أهم مراحل البناء، فهي الأساس الذي يعتمد
