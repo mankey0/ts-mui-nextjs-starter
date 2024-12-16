@@ -4,7 +4,7 @@ title: about
 sections:
   - type: HeroSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: AL-MUSTAHSAR
     text: >
       شركة **المستشار** هي شركة متخصصة في تقديم حلول شاملة في مجال الأعمال
       الخرسانية والبناء. منذ تأسيسها، حرصت الشركة على الالتزام بأعلى معايير
