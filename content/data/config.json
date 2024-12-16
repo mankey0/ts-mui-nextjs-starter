@@ -15,7 +15,7 @@
                 "label": "من نحن",
                 "url": "/about",
                 "underline": "always",
-                "color": "primary"
+                "color": "secondary"
             },
             {
                 "type": "Link",
