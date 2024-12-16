@@ -8,7 +8,7 @@
                 "type": "Link",
                 "label": "الصفحه الرئيسه",
                 "url": "/",
-                "underline": "hover"
+                "underline": "always"
             },
             {
                 "type": "Link",
