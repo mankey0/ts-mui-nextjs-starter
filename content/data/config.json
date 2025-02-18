@@ -9,7 +9,7 @@
                 "label": "الصفحه الرئيسه",
                 "url": "/",
                 "underline": "always",
-                "color": "primary"
+                "color": "inherit"
             },
             {
                 "type": "Link",
