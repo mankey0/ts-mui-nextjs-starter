@@ -1,0 +1,25 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "button conect",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "lol"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "من نحن",
+                "url": "/about",
+                "size": "large",
+                "variant": "contained",
+                "color": "secondary"
+            },
+            "thumbnail": "images/button-button-conect-9c8b.png"
+        }
+    ]
+}

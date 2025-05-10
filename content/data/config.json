@@ -2,14 +2,14 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "AL-MUSTASHAR",
+        "title": "المستشار  -للمقاولات",
         "navLinks": [
             {
                 "type": "Link",
                 "label": "الصفحه الرئيسه",
                 "url": "/",
                 "underline": "always",
-                "color": "secondary"
+                "color": "inherit"
             },
             {
                 "type": "Link",
